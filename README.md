@@ -28,13 +28,11 @@ For reasons of spatial resolution and that the cameras did not all capture exact
 2.2 The stacks have been cut to smaller areas where the clay is definitely visible on bare fields.
 
 ## 3) Pre-Processing and Filtering
-ToDo
 ==> increase Saturation/contrast; decrease lightning
-==> Erosion Filter
 
 
 ## 4) Object based image classification
-Create an OBIA based on the stack and the collected training data (see Code [OBIA.ipynb](https://github.com/carobro/VP2_SoilMapping/blob/main/Code/OBIA.ipynb))
+Create Classification based on OBIA, the stack and the collected training data (see Code [OBIA.ipynb](https://github.com/carobro/VP2_SoilMapping/blob/main/Code/OBIA.ipynb))
 
 
 ## 5) Validation
